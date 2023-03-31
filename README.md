@@ -1,7 +1,7 @@
 # tensorflow-pong-cnn-playe
 TensorFlow-based Convolutional Neural Network (CNN) player for the classic video game "Pong"
 
-### layers.py
+### cnn_layers.py
 
 `layers.py` contains an implementation of the Noisy Linear layer module used in the DQN paper by DeepMind. The module provides a linear layer with added noise to enable better exploration during training. The module also includes methods for resetting the noise parameters.
 
