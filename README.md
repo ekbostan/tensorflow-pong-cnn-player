@@ -1,4 +1,4 @@
-# tensorflow-pong-cnn-playe
+# tensorflow-pong-cnn-player
 TensorFlow-based DQL(Deep Q-learning) player for the classic video game "Pong".
 
 ### cnn_layers.py
